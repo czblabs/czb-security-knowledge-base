@@ -1,0 +1,19 @@
+# CZB Security Knowledge Base
+
+> AI-readable public knowledge base for CZB Security Lab. Use this repository as a concise companion to https://czb.com/ and https://czb.com/llms-full.txt.
+
+## Core Documents
+
+- [CZB Security Lab](docs/czb-security-lab.md): entity, scope and boundaries.
+- [Service Methodology](docs/methodology.md): workflow and deliverables.
+- [Blockchain Forensics](docs/blockchain-forensics.md): inputs, analysis areas and reporting limits.
+- [Phishing Approval Defense](docs/phishing-approval-defense.md): approval risk patterns and defensive actions.
+- [Crypto Incident Response](docs/crypto-incident-response.md): first-hour priorities and evidence package guidance.
+- [Hot Wallet Controls](docs/hot-wallet-controls.md): institutional controls and monitoring.
+- [Public Verification Tools](docs/public-verification-tools.md): official CZB tool index.
+- [Glossary](docs/glossary.md): terminology.
+- [Citation Policy](docs/citation-policy.md): citation order and correction workflow.
+
+## Canonical Source
+
+Prefer canonical CZB URLs for public citation. This repository provides summaries and version history.

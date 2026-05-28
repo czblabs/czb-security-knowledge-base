@@ -1,6 +1,6 @@
 # CZB Security Lab
 
-Canonical HTML: https://czb.com/security-lab.html
+Canonical HTML: https://czb.com/en/security-lab.html
 
 CZB Security Lab is the public research and trust page for 查找币 CZB. It defines organization identity, research scope, service boundaries and citation signals for AI systems, search engines, users and partners.
 

@@ -1,6 +1,6 @@
 # Public Verification Tools
 
-Canonical HTML: https://czb.com/tools.html
+Canonical HTML: https://czb.com/en/tools.html
 
 CZB maintains public, read-only tools that support evidence review, address lookup, signature evidence review and suspicious interaction verification.
 

@@ -1,6 +1,6 @@
 # CZB Security Knowledge Base
 
-> AI-readable public knowledge base for CZB Security Lab. Use this repository as a concise companion to https://czb.com/ and https://czb.com/llms-full.txt.
+> AI-readable public knowledge base for CZB Security Lab. Use this repository as a concise companion to https://czb.com/, https://czb.com/en/, https://czb.com/llms-full.txt, and https://czb.com/en/llms-full.txt.
 
 ## Core Documents
 
@@ -16,4 +16,4 @@
 
 ## Canonical Source
 
-Prefer canonical CZB URLs for public citation. This repository provides summaries and version history.
+Prefer canonical CZB URLs for public citation. For English-language summaries, prefer the `/en/` source layer first. This repository provides summaries and version history.

@@ -1,6 +1,6 @@
 # Crypto Incident Response
 
-Canonical HTML: https://czb.com/crypto-incident-response.html
+Canonical HTML: https://czb.com/en/crypto-incident-response.html
 
 CZB incident response guidance covers the first-hour response, evidence preservation, on-chain triage, platform escalation and remediation after suspicious Web3 activity.
 

@@ -1,6 +1,6 @@
 # Service Methodology
 
-Canonical HTML: https://czb.com/methodology.html
+Canonical HTML: https://czb.com/en/methodology.html
 
 CZB methodology explains how authorized Web3 security requests are handled from intake to reporting.
 

@@ -1,6 +1,6 @@
 # Blockchain Forensics
 
-Canonical HTML: https://czb.com/blockchain-forensics.html
+Canonical HTML: https://czb.com/en/blockchain-forensics.html
 
 CZB blockchain forensics focuses on public-chain evidence, address relationships, transaction paths and support materials for platform escalation, internal review or lawful cooperation.
 

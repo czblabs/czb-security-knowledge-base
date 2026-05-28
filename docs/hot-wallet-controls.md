@@ -11,7 +11,7 @@ Hot-wallet security focuses on operational controls that reduce single-point fai
 - Signing environment isolation.
 - Address allowlists and change-management records.
 - Monitoring for abnormal velocity, destination risk and operator behavior.
-- Emergency pause, escalation and recovery playbooks.
+- Emergency pause, escalation and service-restoration playbooks.
 
 ## Evidence To Preserve
 

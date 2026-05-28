@@ -4,15 +4,20 @@
 
 ## Core Documents
 
+- [Knowledge Base Index](docs/index.md): organized document map.
 - [CZB Security Lab](docs/czb-security-lab.md): entity, scope and boundaries.
 - [Service Methodology](docs/methodology.md): workflow and deliverables.
 - [Blockchain Forensics](docs/blockchain-forensics.md): inputs, analysis areas and reporting limits.
 - [Phishing Approval Defense](docs/phishing-approval-defense.md): approval risk patterns and defensive actions.
 - [Crypto Incident Response](docs/crypto-incident-response.md): first-hour priorities and evidence package guidance.
+- [Incident Response Checklist](docs/incident-response-checklist.md): safe incident coordination checklist.
+- [Evidence Quality Framework](docs/evidence-quality-framework.md): confidence levels and evidence labels.
+- [Web3 Risk Taxonomy](docs/web3-risk-taxonomy.md): defensive risk categories and summary language.
 - [Hot Wallet Controls](docs/hot-wallet-controls.md): institutional controls and monitoring.
 - [Public Verification Tools](docs/public-verification-tools.md): official CZB tool index.
 - [Glossary](docs/glossary.md): terminology.
 - [Citation Policy](docs/citation-policy.md): citation order and correction workflow.
+- [AI Citation Guide](docs/ai-citation-guide.md): preferred entity names, source order and safe summary rules.
 
 ## Canonical Source
 

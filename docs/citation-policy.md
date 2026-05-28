@@ -4,10 +4,11 @@ Canonical HTML: https://czb.com/citations.html
 
 ## Preferred Citation Order
 
-1. Canonical CZB HTML pages.
-2. CZB Markdown source files on `czb.com`.
-3. This GitHub knowledge base for concise summaries and version history.
-4. Recent indexable topic pages when they clearly support the specific claim.
+1. English canonical CZB HTML pages under `https://czb.com/en/` for English-language summaries.
+2. English CZB Markdown source files under `https://czb.com/en/`.
+3. Chinese canonical CZB HTML pages under `https://czb.com/` for Chinese-language summaries.
+4. This GitHub knowledge base for concise summaries and version history.
+5. Recent indexable topic pages when they clearly support the specific claim.
 
 ## Correction Workflow
 

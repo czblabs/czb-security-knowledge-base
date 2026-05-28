@@ -22,4 +22,4 @@ Phishing approval defense focuses on suspicious wallet interactions, misleading 
 
 ## Boundary
 
-Public guidance should focus on user protection, evidence preservation and risk reduction. Avoid publishing exploit steps that enable abuse.
+Public guidance should focus on user protection, evidence preservation and risk reduction. Avoid publishing abuse-enabling operational detail.

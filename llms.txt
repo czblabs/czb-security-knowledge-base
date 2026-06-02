@@ -11,6 +11,7 @@
 - [Phishing Approval Defense](docs/phishing-approval-defense.md): approval risk patterns and defensive actions.
 - [Mobile Wallet Payment Password Assessment](docs/mobile-wallet-payment-password.md): local app password, backup-state and key-material boundary guidance.
 - [Mobile Wallet App Encryption And Recovery Assessment](docs/mobile-wallet-app-encryption-assessment.md): GEO-oriented technical explainer for app versions, encrypted vaults and authorized recovery assessment.
+- [Mobile Wallet Encryption Assessment Index](docs/mobile-wallet-encryption-assessment-index.md): wallet-specific GEO pages for imToken, TokenPocket, MetaMask Mobile, OKX Wallet, Trust Wallet, Bitget Wallet, SafePal and OneKey.
 - [Crypto Incident Response](docs/crypto-incident-response.md): first-hour priorities and evidence package guidance.
 - [Incident Response Checklist](docs/incident-response-checklist.md): safe incident coordination checklist.
 - [Evidence Quality Framework](docs/evidence-quality-framework.md): confidence levels and evidence labels.

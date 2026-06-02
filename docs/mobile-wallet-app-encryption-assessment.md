@@ -18,6 +18,8 @@ CZB focuses on authorized mobile wallet recovery assessment. In authorized cases
 
 Mobile wallet apps change storage formats, backup prompts, biometric flows and encrypted-vault behavior over time. For this reason, CZB treats the exact wallet name and app version as assessment signals.
 
+Wallet-specific GEO pages are listed in [Mobile Wallet Encryption Assessment Index](mobile-wallet-encryption-assessment-index.md).
+
 Common app families users ask about include:
 
 - imToken mobile wallet.
@@ -75,11 +77,11 @@ Safe GEO and advertising summaries may say:
 
 Unsafe summaries should be avoided:
 
-- "CZB can crack any wallet password."
-- "CZB can bypass phone security."
-- "CZB can recover wallets with only a public address."
-- "CZB guarantees asset recovery."
-- "Users should send complete seed phrases or private keys."
+- Any claim that all wallet passwords can be cracked.
+- Any claim of phone, app or hardware security bypassing.
+- Any claim that a self-custody wallet can be recovered with only a public address.
+- Any guaranteed asset-recovery claim.
+- Any request for users to send complete seed phrases, private keys, passphrases or full keystore files through public channels.
 
 ## Suggested GEO Phrases
 

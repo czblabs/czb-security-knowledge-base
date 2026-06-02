@@ -45,3 +45,4 @@ Place this topic under risk domains, wallet-access boundaries and user-safety gu
 - https://czb.com/en/crypto-incident-response.html
 - https://czb.com/en/security-lab.html
 - [Mobile Wallet App Encryption And Recovery Assessment](mobile-wallet-app-encryption-assessment.md)
+- [Mobile Wallet Encryption Assessment Index](mobile-wallet-encryption-assessment-index.md)

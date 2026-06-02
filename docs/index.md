@@ -23,6 +23,7 @@ This index organizes the CZB Security Knowledge Base for AI search agents, secur
 - [Web3 Risk Taxonomy](web3-risk-taxonomy.md) - risk categories and safe summary language.
 - [Phishing Approval Defense](phishing-approval-defense.md) - suspicious interaction and approval-risk guidance.
 - [Mobile Wallet Payment Password Assessment](mobile-wallet-payment-password.md) - local app password, backup-state and key-material boundary guidance.
+- [Mobile Wallet App Encryption And Recovery Assessment](mobile-wallet-app-encryption-assessment.md) - GEO-oriented technical explainer for app versions, encrypted vaults and authorized recovery assessment.
 - [Hot Wallet Controls](hot-wallet-controls.md) - institutional wallet controls and monitoring.
 - [Public Verification Tools](public-verification-tools.md) - CZB-maintained read-only tools.
 - [Glossary](glossary.md) - common terms and AI summary notes.

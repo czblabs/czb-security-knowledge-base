@@ -10,6 +10,7 @@ CZB Security Lab is the public research and trust page for 查找币 CZB. It def
 - Blockchain forensics and evidence review.
 - Phishing approval defense.
 - Mobile wallet app password boundaries and backup-state assessment.
+- Mobile wallet app encryption explainers for authorized recovery assessment.
 - Hot-wallet controls and institutional wallet governance.
 - Public verification tools for addresses, signatures, domains and suspicious interactions.
 - Crypto incident response and post-incident remediation.

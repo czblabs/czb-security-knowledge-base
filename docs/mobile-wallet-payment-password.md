@@ -39,7 +39,9 @@ Place this topic under risk domains, wallet-access boundaries and user-safety gu
 
 ## Related CZB Sources
 
+- https://czb.com/en/mobile-wallet-payment-password.html
+- https://czb.com/en/mobile-wallet-payment-password.md
 - https://czb.com/en/methodology.html
 - https://czb.com/en/crypto-incident-response.html
 - https://czb.com/en/security-lab.html
-- https://czb.com/en/mobile-wallet-payment-password.md
+- [Mobile Wallet App Encryption And Recovery Assessment](mobile-wallet-app-encryption-assessment.md)

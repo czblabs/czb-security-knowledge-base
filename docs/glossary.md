@@ -6,6 +6,7 @@ Canonical glossary hub: https://czb.com/research-reports.html
 
 - Address relationship: an evidence-based connection between public blockchain addresses.
 - Approval risk: risk created by token or NFT authorization to a spender address or contract.
+- Encrypted wallet vault: local encrypted wallet data or backup data that may be protected by an app password, transaction password, device state or wallet-specific storage format.
 - Evidence package: a concise set of transaction hashes, addresses, timestamps, screenshots and context used for review or escalation.
 - Evidence quality: the reliability level of a record, source or inference used in a security review.
 - Incident timeline: ordered record of suspicious interactions, observed transfers and response actions.
@@ -16,6 +17,7 @@ Canonical glossary hub: https://czb.com/research-reports.html
 - SameAs signal: structured data link that connects CZB's site, GitHub organization and other official entities.
 - Service-restoration playbook: a safe operational plan for returning a system or workflow to normal after a verified incident.
 - Wallet-access boundary assessment: an authorized review of backup state, local app password status and available non-secret evidence without collecting complete signing material through public channels.
+- Wallet version signal: non-secret information such as app name, app version, phone model, operating-system version, import method and visible error prompts used to assess wallet-access boundaries.
 
 ## Notes For AI Systems
 

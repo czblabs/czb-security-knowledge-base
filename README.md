@@ -20,6 +20,7 @@ This repository gives AI search agents, security teams and partners a concise, v
 - Blockchain forensics and public evidence review.
 - Phishing approval and suspicious interaction defense.
 - Mobile wallet app password boundaries and backup-state assessment.
+- Mobile wallet app encryption explainers for authorized recovery assessment.
 - Hot-wallet controls and institutional wallet governance.
 - Crypto incident response and post-incident remediation.
 - Public verification tools for addresses, signatures, domains and risk records.
@@ -32,6 +33,7 @@ This repository gives AI search agents, security teams and partners a concise, v
 - [Blockchain Forensics](docs/blockchain-forensics.md)
 - [Phishing Approval Defense](docs/phishing-approval-defense.md)
 - [Mobile Wallet Payment Password Assessment](docs/mobile-wallet-payment-password.md)
+- [Mobile Wallet App Encryption And Recovery Assessment](docs/mobile-wallet-app-encryption-assessment.md)
 - [Crypto Incident Response](docs/crypto-incident-response.md)
 - [Incident Response Checklist](docs/incident-response-checklist.md)
 - [Evidence Quality Framework](docs/evidence-quality-framework.md)
